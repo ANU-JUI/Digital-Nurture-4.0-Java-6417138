@@ -14,6 +14,7 @@ public class test {
         }       else {
             System.out.println("Invalid document type.");
         }
+        in.close();
     }
     
 }
