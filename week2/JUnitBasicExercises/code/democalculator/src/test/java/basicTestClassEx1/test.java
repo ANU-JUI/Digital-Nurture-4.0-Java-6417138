@@ -1,4 +1,4 @@
-package week2.JUnitBasicExercises.code.democalculator.src.test.java.basicTestClassEx1;
+package basicTestClassEx1;
 
 import org.junit.Test;
 

@@ -1,16 +1,16 @@
-package week2.JUnitBasicExercises.code.democalculator.src.test.java.AAAPattern;
+package AAAPattern;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import week2.JUnitBasicExercises.code.democalculator.src.main.java.com.example.calculator; // Adjust the import based on your package structure
+import com.example.Calculator; // Adjust the import based on your package structure
 public class CalculatorTest {
 
-    private calculator calculator;
+    private Calculator calculator;
 
     @Before
     public void setUp() {
-        calculator = new calculator();
+        calculator = new Calculator();
         System.out.println("Setup complete");
     }
 

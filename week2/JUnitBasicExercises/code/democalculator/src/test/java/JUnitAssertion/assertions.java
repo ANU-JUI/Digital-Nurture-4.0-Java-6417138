@@ -1,4 +1,4 @@
-package week2.JUnitBasicExercises.code.democalculator.src.test.java.JUnitAssertion;
+package JUnitAssertion;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

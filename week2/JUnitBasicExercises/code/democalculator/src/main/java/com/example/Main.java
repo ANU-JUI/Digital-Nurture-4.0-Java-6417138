@@ -1,4 +1,4 @@
-package week2.JUnitBasicExercises.code.democalculator.src.main.java.com.example;
+package com.example;
 
 public class Main {
     public static void main(String[] args) {
